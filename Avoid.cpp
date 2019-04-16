@@ -2,7 +2,7 @@
  * Avoid.cpp
  *
  *  Created on: Nov 24, 2017
- *      Author: Topgear
+ *      Author: Topgear(Sandeep, Cem, Michael, Shreesha)
  */
 
 #include <ev3.h>
